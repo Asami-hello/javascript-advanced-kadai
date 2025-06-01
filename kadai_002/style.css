@@ -1,0 +1,34 @@
+body {
+    font-size: 6em;
+    text-align: center;
+}
+
+.count {
+    color: #888;
+    margin: 0;
+    font-weight: bold;
+}
+
+.wrap {
+    background-color: #666;
+    color: #fff;
+    margin-top: 20px;
+    padding: 80px 40px;
+    font-weight: bold;
+}
+
+.typeCount {
+    color: #888;
+    margin: 0;
+    font-weight: bold;
+}
+
+/* 正しくタイプされたテキスト */
+.typed {
+    color: lightgreen;
+}
+
+/* ミスタイプのときの背景 */
+.mistyped {
+    background-color: red;
+}
